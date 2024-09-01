@@ -1,0 +1,19 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////// music_chooser by RUBINO Marc
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+-   2.1.2   => Less brutal exit when folder is empty
+
+-   2.1.1   => Small enchancement: remove credentials && version implementation, instead
+
+-   2.1.0   => Bugfix for date
+
+-   2.0.1   => .lst replaced by .zip file when using local storage
+
+-   2.0.0   => Major Update ( WebDAV support + Colors )
+
+-   1.1.0   => Added: date
+
+-   1.0.1   => Smalls bugfixes
+
+-   1.0.0   => Initial release !
